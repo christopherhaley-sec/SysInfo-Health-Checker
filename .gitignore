@@ -1,0 +1,7 @@
+# Ignore dynamic log output
+HealthCheck_Log.txt
+*.log
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
